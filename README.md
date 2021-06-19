@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @sund0416
+A person complained the elevator is arriving a bit slow
+The team increased the speed of the elevator with days of coding and work
+But the problem was not about the "Speed" but it was about the "Feeling"
+So another team solved the problem by simply installing a mirror infront of the elevator so that the users dont feel bored while waiting
+This story tells us that realizing what needs to be done is more important than how you do it
+
+I focus on "What" I am trying to solve and who can benefit from that
+The approach does not begin until I am clear of what I am trying to achieve
+
+- 👋 Hi, I’m @SunWuChoi
 - 👀 I’m interested in Artificial Intelligence, Philosophy, Physics, Neuroscience, and Psychology
 - 🌱 I’m currently learning Artificial Intelligence in Northeastern University as my Masters degree
 - 💞️ I’m looking to collaborate on fun projects
