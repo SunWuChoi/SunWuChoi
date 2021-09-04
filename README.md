@@ -6,5 +6,7 @@
 - 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sund0416?style=social)](https://twitter.com/Sund0416)
+
 [![Twitch Status](https://img.shields.io/twitch/status/SunWuChoi?style=social)](https://www.twitch.tv/sunwuchoi)
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_Yfuux-CgwDqwNczY9g-nA?style=social)](https://www.youtube.com/channel/UC_Yfuux-CgwDqwNczY9g-nA)
