@@ -5,5 +5,6 @@
 - 📫 How to reach me is email sund0416@gmail.com
 - 
 
--[![Twitter Follow](https://img.shields.io/twitter/follow/Sund0416?style=social)](https://twitter.com/Sund0416)
--[![Twitch Status](https://img.shields.io/twitch/status/SunWuChoi?style=social)](https://www.twitch.tv/sunwuchoi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sund0416?style=social)](https://twitter.com/Sund0416)
+
+[![Twitch Status](https://img.shields.io/twitch/status/SunWuChoi?style=social)](https://www.twitch.tv/sunwuchoi)
