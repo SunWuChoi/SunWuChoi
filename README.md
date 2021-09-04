@@ -5,4 +5,4 @@
 - 📫 How to reach me is email sund0416@gmail.com
 - 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Sund0416?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SunWuChoi?style=social)](https://twitter.com/SunWuChoi)
