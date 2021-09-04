@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me is email sund0416@gmail.com
 - 
-https://img.shields.io/twitter/follow/SunWuChoi?style=social
+
+![Twitter Follow](https://img.shields.io/twitter/follow/SunWuChoi?style=social)
